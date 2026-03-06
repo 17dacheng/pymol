@@ -1,0 +1,83 @@
+[
+  {
+    "name": "e6",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGFTFSDYWMYWVRQAPGKGLEWVAEINTNGSTKYADSVKGRFTISRDNAKNTLYLQMNSLRAEDTAVYYCARSPSGFNWGQGTLVTVSS",
+          "count": 1,
+          "maxTemplateDate": "2025-02-03",
+          "chainIdentifier": "H"
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  },
+  {
+    "name": "e9",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGSGFGVNILYWYRQAPGKERELVASITSGGITNYADSVKGRFTISRDNAKNTLYLQMNSLRAEDTAVYYCAARNIFDGTTEWGQGTLVTVSS",
+          "count": 1,
+          "maxTemplateDate": "2025-02-03",
+          "chainIdentifier": "H"
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  },  
+  {
+    "name": "e12",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGSVFKINVMAWYRQAPGKGRELVAGIISGGSTSYADSVKGRFTISRDNAKNTLYLQMNSLRAEDTAVYYCAAITTESDYDLGRRYWGQGTLVTVSS",
+          "count": 1,
+          "maxTemplateDate": "2025-02-03",
+          "chainIdentifier": "H"
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  },  
+  {
+    "name": "kh12",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGRTFSSYRMGWFRQAPGKEREFVAAISGDGYSTYYADSVKGRFTISRDNAKNTLYLQMNSLRAEDTAVYYCAAKLQYVSGWSYDYPYWGQGTLVTVSS",
+          "count": 1,
+          "maxTemplateDate": "2025-02-03",
+          "chainIdentifier": "H"
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  },  
+  {
+    "name": "kh15",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "EVQLVESGGGLVQPGGSLRLSCAASGRAHSDYAMAWFRQAPGKEREFVAGIGWSGGDTLYADSVKGRFTISRDNAKNTLYLQMNSLRAEDTAVYYCAARQGQYIYSSMRSDSYDYWGQGTLVTVSS",
+          "count": 1,
+          "maxTemplateDate": "2025-02-03",
+          "chainIdentifier": "H"
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]
+
