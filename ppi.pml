@@ -13,7 +13,7 @@ distance salt_bridge, chain A and resn LYS+ARG+HIS and (name NZ+NH1+NH2+NE2+ND1)
 D_salt = get_raw_distances("salt_bridge")
 print("number of salt_bridge:", len(D_salt))
 
-distance hydrophobic_effect, chain A and resn ALA+VAL+LEU+ILE+PHE+TRP+MET+PRO, chain B and resn ALA+VAL+LEU+ILE+PHE+TRP+MET+PRO, 5.0, mode=2
+distance hydrophobic_effect, chain A and resn ALA+VAL+LEU+ILE+PHE+TRP+MET+PRO, chain B and resn ALA+VAL+LEU+ILE+PHE+TRP+MET+PRO, 8.0, mode=2
 D_hydro = get_raw_distances("hydrophobic_effect")
 print("number of hydrophobic_effect:", len(D_hydro))
 
